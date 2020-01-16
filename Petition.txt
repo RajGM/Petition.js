@@ -1,1 +1,3 @@
-We are developing a template for collages to show what students wants
+We are developing a template for collages to show what students wants 
+Backend designed and UI and front still in progess of design
+let the game begins
